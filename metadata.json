@@ -1,0 +1,9 @@
+{
+  "name": "MVGR NEXUS",
+  "description": "A comprehensive platform for MVGR College students and clubs to connect, share events, and engage in real-time communication with Gemini-powered moderation and recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
